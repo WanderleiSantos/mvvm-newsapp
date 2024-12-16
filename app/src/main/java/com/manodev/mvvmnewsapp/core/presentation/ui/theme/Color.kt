@@ -1,4 +1,4 @@
-package com.manodev.mvvmnewsapp.ui.theme
+package com.manodev.mvvmnewsapp.core.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
