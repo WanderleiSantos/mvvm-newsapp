@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVVM NewsApp</string>
+    <string name="the_news">The News</string>
+    <string name="can_t_load_news">Can\'t Load News</string>
 </resources>
